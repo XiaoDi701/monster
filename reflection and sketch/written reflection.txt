@@ -1,0 +1,11 @@
+This is a drawing game where you can create the environment where this little monster lives.  
+Team members: Bruno, Di, Victoria. The code for this sketch was completed by me alone (Di).  
+
+The main technical points of this project, aside from the assignment's requirements, include the use of the `constrain` function, uploading an image, and switching colors using buttons (storing and defining RGB values).  
+My favorite part is that you can press "enter" to save your drawing as an image, which adds interactivity to the project.  
+
+The idea for this project came from the fact that both my teammates and I didn't draw the monster's habitat background, only the background itself. But I wanted to add something interactive, so I created this coloring game.  
+
+Although I'm not entirely sure why, I have a feeling it might be some kind of sea monster, so I drew its environment this way.  
+
+For the sketch, please refer to the sketch document.
