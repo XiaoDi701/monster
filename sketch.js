@@ -9,8 +9,6 @@ function preload() {
 
 function setup() {
   createCanvas(600, 600);
-  let label = createElement("p", "Color the environment! You can switch the coloring area by clicking on different body parts of the little monster, switch colors by clicking different buttons, and when you're done, press enter to save the image.");
-  label.position(10, 600);
   angleMode(DEGREES);
  rect(0, 200, 600, 200);
   rect(0, 400, 600, 200);
